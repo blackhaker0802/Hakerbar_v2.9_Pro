@@ -21,3 +21,6 @@
 # SCREENSHOT
 ![full](Screenshot_20201104_194615.jpg)
 ![full](Screenshot_20201104_194830.jpg)
+
+# TUTORIAL [ TERMUX ]
+[(![des](https://user-images.githubusercontent.com/55870659/79192397-73119d00-7ddd-11ea-865f-9128abe2fba9.jpg)](https://youtu.be/jxtKgJD3g_8)
