@@ -22,4 +22,4 @@ Screenshot (2020 )
 ![téléchargement (1)](Screenshot_20201104_194615.jpg)
 
 # TUTORIAL
-[(![des](Screenshot_20201104_194830.jpg)](https://youtu.be/jxtKgJD3g_8)
+[(![des](Screenshot_20201104_194830.jpg)(Screenshot_20201104_194615.jpg)](https://youtu.be/jxtKgJD3g_8)
