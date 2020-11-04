@@ -24,4 +24,4 @@
 ![full](Screenshot_20201104_194830.jpg)
 
 # TUTORIAL 
-[(![des](images.png)](https://youtu.be/jxtKgJD3g_8)
+[(![des](https://youtu.be/jxtKgJD3g_8)](https://youtu.be/jxtKgJD3g_8)
