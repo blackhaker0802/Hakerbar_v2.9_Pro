@@ -25,3 +25,6 @@
 
 # TUTORIAL 
 [(![des]IMG_20201104_210837.jpg)](https://youtu.be/jxtKgJD3g_8)
+
+# TUTORIAL [ KALI ]
+[(![des](IMG_20201104_210837.jpg)](https://youtu.be/jxtKgJD3g_8)
