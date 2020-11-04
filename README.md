@@ -22,4 +22,4 @@ Screenshot (2020 )
 ![téléchargement (1)](Screenshot_20201104_194615.jpg)
 
 # TUTORIAL
-[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://youtu.be/jxtKgJD3g_8)
+[(![des](Screenshot_20201104_194830.jpg)](https://youtu.be/jxtKgJD3g_8)
