@@ -23,8 +23,5 @@
 
 ![full](Screenshot_20201104_194830.jpg)
 
-# TUTORIAL 
-[(![des]IMG_20201104_210837.jpg)](https://youtu.be/jxtKgJD3g_8)
-
-# TUTORIAL [ KALI ]
+# TUTORIAL
 [(![des](IMG_20201104_210837.jpg)](https://youtu.be/jxtKgJD3g_8)
