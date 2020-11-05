@@ -12,7 +12,7 @@
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href=""><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> <a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" src="https://img.shields.io/badge/-instagram-red" ></a> <a href="https://www.linkedin.com/in/shubham-goyal-sgpro"><img title="GitHub version" src="https://img.shields.io/badge/-Linkedin-green" ></a>
+<a href=""><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> <a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" src="https://img.shields.io/badge/-instagram-red" ></a> <a href="https://www.linkedin.com/in/shubham-goyal-sgpro"><img title="GitHub version" src="https://img.shields.io/badge/-github-black" ></a>
 </p>
 <p align="center">
   <b> </b>
